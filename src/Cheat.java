@@ -8,8 +8,7 @@ public class Cheat {
         String [] y = new String [n];
         String [] [] z = new String[n][n];
         StringBuilder builder = new StringBuilder();
-        String sss = "rgong";
-        int o = 544545;
+        Double t = 10.78;
         for(int i = 0 ; i<n ; i++){
             x[i] = sc.next();
             y[i] = sc.next();
