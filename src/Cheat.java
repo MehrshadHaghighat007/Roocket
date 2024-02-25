@@ -14,6 +14,8 @@ public class Cheat {
             int o = 544545;
         }
         int o = 0 ;
+        String sss = "rgong";
+        String Esgh = "Eshg - e - man";
         for (int i = 0; i < n; i++) {
             x[i] = sc.next();
             y[i] = sc.next();
