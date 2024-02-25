@@ -40,6 +40,7 @@ public class Cheat {
                 }
             }
         }
+        System.out.println("Hello Mehrshad!");
     }
 }
 
