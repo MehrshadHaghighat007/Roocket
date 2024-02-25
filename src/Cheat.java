@@ -42,6 +42,7 @@ public class Cheat {
         }
         System.out.println("Hello Mehrshad!");
         int etr = 345;
+        int utue = 4457;
     }
 }
 
