@@ -41,6 +41,7 @@ public class Cheat {
             }
         }
         System.out.println("Hello Mehrshad!");
+        int etr = 345;
     }
 }
 
