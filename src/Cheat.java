@@ -9,6 +9,7 @@ public class Cheat {
         String[][] z = new String[n][n];
         StringBuilder builder = new StringBuilder();
         String sss = "rgong";
+        String Esgh = "Eshg - e - man";
         int o = 544545;
         for (int i = 0; i < n; i++) {
             x[i] = sc.next();
