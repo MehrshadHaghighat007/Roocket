@@ -35,5 +35,6 @@ public class Cheat {
                 }
             }
         }
+        System.out.println("Winter");
     }
 }
