@@ -13,7 +13,7 @@ public class Cheat {
             String sss = "rgong";
             int o = 544545;
         }
-        int o = 0 ;
+        int o = 0;
         String sss = "rgong";
         String Esgh = "Eshg - e - man";
         for (int i = 0; i < n; i++) {
@@ -43,6 +43,7 @@ public class Cheat {
         System.out.println("Hello Mehrshad!");
         int etr = 345;
         int utue = 4457;
+        int wr = 999;
     }
 }
 
