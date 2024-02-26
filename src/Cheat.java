@@ -41,6 +41,7 @@ public class Cheat {
             }
         }
         System.out.println("Winter");
+        System.out.println("Mehrshad");
     }
 }
 
