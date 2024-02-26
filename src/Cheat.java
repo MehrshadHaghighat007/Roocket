@@ -40,11 +40,7 @@ public class Cheat {
                 }
             }
         }
-        System.out.println("Hello Mehrshad!");
-        int etr = 345;
-        int utue = 4457;
-        int wr = 999;
-        int xyzy = 58347778;
+        System.out.println("Winter");
     }
 }
 
