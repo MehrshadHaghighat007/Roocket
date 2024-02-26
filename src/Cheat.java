@@ -44,6 +44,7 @@ public class Cheat {
         int etr = 345;
         int utue = 4457;
         int wr = 999;
+        int xyzy = 58347778;
     }
 }
 
