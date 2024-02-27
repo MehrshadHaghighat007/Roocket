@@ -42,6 +42,8 @@ public class Cheat {
         }
         System.out.println("Winter");
         System.out.println("Mehrshad");
+        int rn = 3993;
+        int ty = 8;
     }
 }
 
