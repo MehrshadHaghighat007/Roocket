@@ -22,7 +22,7 @@ public class Cheat {
         }
         int e = 0;
         e = e + 2;
-        int g = e * e;
+        String er = error;
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
                 z[i][j] = y[i] + y[j];
