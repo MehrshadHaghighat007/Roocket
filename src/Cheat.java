@@ -32,6 +32,7 @@ public class Cheat {
                 }
             }
         }
+        int o = 56;
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
                 for (int k = 0; k < z[i][j].length(); k++) {
@@ -40,10 +41,7 @@ public class Cheat {
                 }
             }
         }
-        System.out.println("Winter");
-        System.out.println("Mehrshad");
-        int rn = 3993;
-        int ty = 8;
+        int y = 67;
     }
 }
 
