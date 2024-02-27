@@ -32,7 +32,7 @@ public class Cheat {
                 }
             }
         }
-        int q = 56;
+        int o = 56;
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
                 for (int k = 0; k < z[i][j].length(); k++) {
